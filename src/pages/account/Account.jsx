@@ -10,7 +10,7 @@ export const Account = () => {
           <div className='content'>
             <div className='left'>
               <div className='img flexCenter'>
-                <img src="https://cdn.britannica.com/49/100349-050-24E63356/view-central-business-district-Johannesburg-South-Africa.jpg" alt='image' className='image-preview' />
+                <img src="https://cdn.britannica.com/49/100349-050-24E63356/view-central-business-district-Johannesburg-South-Africa.jpg" alt='' className='image-preview' />
               </div>
             </div>
             <div className='right'>
