@@ -1,6 +1,6 @@
 /* header */
 header {
-  background: pink; /* Change the background color to pink */
+  background: silver; /* Change the background color to pink */
   padding: 20px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
   position: relative;
@@ -80,7 +80,7 @@ header.active {
   width: 100%;
   box-shadow: 0 0 4px 0 rgb(115 115 115 / 20%);
   z-index: 9999;
-  background: #fff;
+  background: silver;
 }
 
 @media screen and (max-width: 768px) {
