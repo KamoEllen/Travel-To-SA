@@ -42,12 +42,12 @@ nav a {
 
 .openProfile {
   color: pink; /* Change the color to pink */
-  box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
+  box-shadow: orange;
   position: absolute;
   top: 80px;
   right: 10px;
   width: 250px;
-  background: pink; /* Change the background color to pink */
+  background: blue; /* Change the background color to pink */
 }
 
 .openProfile .box {
@@ -70,7 +70,7 @@ nav a {
 }
 
 .openProfile button:hover {
-  background: pink; /* Change the background color to pink */
+  background: orange; /* Change the background color to pink */
 }
 
 header.active {
