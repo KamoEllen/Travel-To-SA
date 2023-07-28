@@ -8,8 +8,8 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #ffffff; /* White */
-  color: #000000; /* Black */
+  background-color: #ffffff;
+  color: #000000;
 }
 
 h1,
@@ -105,7 +105,7 @@ form input {
   border: 1px solid;
   border-color: pink;
   border-radius: 6px;
-  color: black; /* White */
+  color: black; 
   cursor: pointer;
   font-weight: 400;
   height: 48px;
@@ -203,7 +203,7 @@ button {
 }
 
 button:hover {
-  background-color: white;
+  background-color: silver;
 }
 
 /* AboutPage.css */
