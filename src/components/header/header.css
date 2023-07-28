@@ -70,7 +70,7 @@ nav a {
 }
 
 .openProfile button:hover {
-  background: rgba(147, 75, 255, 0.075);
+  background: red;
 }
 
 header.active {
