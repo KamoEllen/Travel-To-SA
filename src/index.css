@@ -103,7 +103,7 @@ form input {
 .button {
   background: silver; /* silver */
   border: 1px solid;
-  border-color: #000000;
+  border-color: pink;
   border-radius: 6px;
   color: #ffffff; /* White */
   cursor: pointer;
