@@ -1,10 +1,12 @@
+/* header */
 header {
-  background: #white;
+  background: pink; /* Change the background color to pink */
   padding: 20px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
   position: relative;
   z-index: 44;
 }
+
 /* nav */
 nav ul {
   display: flex;
@@ -14,6 +16,7 @@ nav a {
   margin-right: 30px;
   color: #fff;
 }
+
 /* User */
 .profile {
   margin-left: 30px;
@@ -36,6 +39,7 @@ nav a {
   border-radius: 50%;
   object-fit: cover;
 }
+
 .openProfile {
   color: #000;
   box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
@@ -45,6 +49,7 @@ nav a {
   width: 250px;
   background: #fff;
 }
+
 .openProfile .box {
   display: flex;
   align-items: center;
@@ -53,17 +58,21 @@ nav a {
   padding: 5px;
   transition: 0.5s;
 }
+
 .openProfile .icon {
   font-size: 20px;
   margin-right: 20px;
 }
+
 .openProfile h4 {
   font-size: 15px;
   font-weight: 500;
 }
+
 .openProfile button:hover {
   background: rgba(147, 75, 255, 0.075);
 }
+
 header.active {
   position: sticky;
   top: 0;
@@ -73,6 +82,7 @@ header.active {
   z-index: 9999;
   background: #fff;
 }
+
 @media screen and (max-width: 768px) {
   header .search {
     display: none;
