@@ -10,7 +10,6 @@ header {
 /* nav */
 nav ul {
   display: flex;
-  color: white;
 }
 nav a {
   text-transform: capitalize;
@@ -42,8 +41,7 @@ nav a {
 }
 
 .openProfile {
-  color: pink; /* Change the color to pink */
-  box-shadow: orange;
+  color: white; /* Change the color to pink */
   position: absolute;
   top: 80px;
   right: 10px;
