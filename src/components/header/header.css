@@ -1,6 +1,6 @@
 /* header */
 header {
-  background: silver; /* Change the background color to pink */
+  background: pink; /* Change the background color to pink */
   padding: 20px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
   position: relative;
@@ -14,7 +14,7 @@ nav ul {
 nav a {
   text-transform: capitalize;
   margin-right: 30px;
-  color: #fff;
+  color: pink; /* Change the color to pink */
 }
 
 /* User */
@@ -41,13 +41,13 @@ nav a {
 }
 
 .openProfile {
-  color: #000;
+  color: pink; /* Change the color to pink */
   box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
   position: absolute;
   top: 80px;
   right: 10px;
   width: 250px;
-  background: black;
+  background: pink; /* Change the background color to pink */
 }
 
 .openProfile .box {
@@ -70,7 +70,7 @@ nav a {
 }
 
 .openProfile button:hover {
-  background: red;
+  background: pink; /* Change the background color to pink */
 }
 
 header.active {
@@ -80,7 +80,7 @@ header.active {
   width: 100%;
   box-shadow: 0 0 4px 0 rgb(115 115 115 / 20%);
   z-index: 9999;
-  background: silver;
+  background: pink; /* Change the background color to pink */
 }
 
 @media screen and (max-width: 768px) {
