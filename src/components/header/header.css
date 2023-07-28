@@ -2,7 +2,7 @@
 header {
   background: silver; /* Change the background color to pink */
   padding: 20px;
-  box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
+  box-shadow: blue;
   position: relative;
   z-index: 44;
 }
@@ -69,7 +69,7 @@ nav a {
 }
 
 .openProfile button:hover {
-  background: white; /* Change the background color to pink */
+  background: white;
 }
 
 header.active {
@@ -77,9 +77,9 @@ header.active {
   top: 0;
   left: 0;
   width: 100%;
-  box-shadow: 0 0 4px 0 rgb(115 115 115 / 20%);
+  box-shadow: blue;
   z-index: 9999;
-  background: white; /* Change the background color to pink */
+  background: white;
 }
 
 @media screen and (max-width: 768px) {
