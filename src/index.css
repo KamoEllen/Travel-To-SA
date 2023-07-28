@@ -105,7 +105,7 @@ form input {
   border: 1px solid;
   border-color: pink;
   border-radius: 6px;
-  color: white; /* White */
+  color: black; /* White */
   cursor: pointer;
   font-weight: 400;
   height: 48px;
